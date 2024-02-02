@@ -1,0 +1,8 @@
+//:root {
+//  --bs-primary-rgb: 1, 50, 32 !important;
+//}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: rgba(1, 50, 32,1) !important;
+}
